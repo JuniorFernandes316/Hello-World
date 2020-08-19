@@ -1,5 +1,5 @@
 # Hello-World!
- primeiro repositório versionado
+ primeiro repositório versionado - Curso git e Github
 
 Criado durante a aula do gustavo guanabara.
 
